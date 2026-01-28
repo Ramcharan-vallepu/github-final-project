@@ -7,4 +7,4 @@ Input:
 Output
    simple interest = p*t*r
 
-Footer: **2022**
+Footer: **2023**
